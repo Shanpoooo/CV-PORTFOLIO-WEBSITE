@@ -702,9 +702,12 @@ hr {
 /* MEDIA STUFF*/
 @media (max-width: 600px){
   
+  
   .navbar a{
     padding: 15px 2px;
     font-size: 20px;
+    font-size: 14px;
+    margin-left: 0;
   }
   .STATUS{
   font-size: 20px;
@@ -712,7 +715,8 @@ hr {
 .lang_dropdown summary{
   font-size: 20px;
   
-  padding: 15px 7px;
+  padding: 15px 0px;
+  margin-left: 0;
 }
 .topbar{
   margin-left: 6px;
