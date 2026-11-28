@@ -2,7 +2,7 @@
 
 ## [MAIN PAGE + LAYOUT]
 
-[Open it here.](https://shanpoooo.github.io/CV_2026/)
+[Open it here.](https://shanpoooo.github.io/CV-PORTFOLIO-WEBSITE/)
 
 The attention span of a viewer is ever decreasing, therefore it is taken upon the front-end developers to seize each reader with an accessible, intriguing page. The option to release this website with regular, corporate CSS was available, but what's the joy in that? This Portfolio aims to both demonstrate my accomplishments in Computer Science, as well as allow me to have fun with the graphic design. The main inspirations behind the theme are:
 
