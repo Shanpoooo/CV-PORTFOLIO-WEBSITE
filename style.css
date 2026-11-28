@@ -188,8 +188,12 @@ body {
   padding: 90px 95px 145px 95px;
 }
 
-.pixel_pc h2,
-.pixel_pc p {
+.pixel_pc h2
+{
+ text-align: center;
+}
+.pixel_pc p, h2 {
+  text-align: justify;
   padding: 0;
   margin-left: 0;
   margin-right: 0;
@@ -696,15 +700,37 @@ hr {
 }
 
 /* MEDIA STUFF*/
-@media (max-width: 540px){
+@media (max-width: 600px){
   
   .navbar a{
-    padding: 6px 15px;
+    padding: 15px 7px;
     font-size: 20px;
   }
   .STATUS{
+  font-size: 20px;
+}
+.lang_dropdown summary{
+  font-size: 20px;
+  
+  padding: 15px 7px;
+}
+.topbar{
+  margin-left: 6px;
+}
+.topbar a {
+  margin-left: 0;
+  padding: 2 2;
   font-size: 24px;
 }
+.pixel_pc h2,
+.pixel_pc p {
+  
+  padding: 0 6px 0;
+  margin-left: 19px;
+  margin-right: 19px;
+  margin-bottom: 30px;
+}
+
 }
 @media (max-width: 700px) {
 
